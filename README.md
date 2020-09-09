@@ -1,2 +1,2 @@
 # Twitter-Sentimental-Analysis
-Twitter sentimentsl analysis
+Twitter sentimentsl analysis for COVID-19
